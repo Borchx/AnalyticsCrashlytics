@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804478624917",
+    "project_id": "analyticscrashlytics-cc319",
+    "storage_bucket": "analyticscrashlytics-cc319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804478624917:android:9eeb21788d1e9e06f0e79c",
+        "android_client_info": {
+          "package_name": "com.borja.android.analytucscrashlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwePTKtr2TDAFtzabpWz2LOtechMzbNX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
